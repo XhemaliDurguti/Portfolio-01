@@ -443,3 +443,19 @@ span {
     margin-bottom: 5px;
     color: var(--text-color);
 }
+
+
+/* Start bottom section */
+
+.bottom {
+    width: 100%;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.bottom p {
+    color: var(--text-color);
+    font-size: 0.9rem;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
